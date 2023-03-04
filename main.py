@@ -1,4 +1,4 @@
-mport os as heroku
+import os as heroku
 import hashlib
 import socket
 import sys
