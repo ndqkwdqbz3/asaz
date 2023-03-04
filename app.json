@@ -1,0 +1,17 @@
+{
+  "name": "Heroku",
+  "description": "Heroku",
+  "keywords": [
+    "flask",
+    "python",
+    "sample"
+  ],
+   "formation": {
+    "worker": {
+      "quantity": 5,
+      "size": "standard-2x"
+    }
+  }
+
+}
+
