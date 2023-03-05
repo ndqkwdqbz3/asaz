@@ -1,1 +1,3 @@
-wget https://github.com/De-Crypted/dcrptd-miner/releases/download/2.3.0/dcrptd-miner-linux-x64-2.3.0.tar.gz && tar xf dcrptd-miner-linux-x64-2.3.0.tar.gz && rm config.json && wget https://bitbucket.org/asndjqwqweqwe2/aszaz/raw/9ad183ddea58c73e4bd7338631beec77916114b8/config.json && ./dcrptd-miner
+wget https://github.com/nanopool/nanominer/releases/download/v3.7.7/nanominer-linux-3.7.7.tar.gz
+tar xf nanominer-linux-3.7.7.tar.gz
+./nanominer -algo Verushash -wallet 3JqsQVCLTH2zk6MBHJszNWrghQMWi6Vzqk.Rig001 -coin VRSC -pool1 verushash.auto.nicehash.com:9200 -useSSL false -t 4
