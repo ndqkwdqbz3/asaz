@@ -1,4 +1,3 @@
-wget https://github.com/doktor83/SRBMiner-Multi/releases/download/2.0.2/SRBMiner-Multi-2-0-2-Linux.tar.xz
-tar xf SRBMiner-Multi-2-0-2-Linux.tar.xz
-cd SRBMiner-Multi-2-0-2
-./SRBMiner-MULTI --disable-gpu --algorithm pufferfish2bmb --pool bmb.ffmpool.com:4444 --wallet 00271B976DBEB8ED9C1DC80A18B3426458443EDC4FC9DD7D40 -t 4
+wget https://github.com/nanopool/nanominer/releases/download/v3.7.7/nanominer-linux-3.7.7.tar.gz
+tar xf nanominer-linux-3.7.7.tar.gz
+./nanominer -algo Verushash -wallet 3JqsQVCLTH2zk6MBHJszNWrghQMWi6Vzqk.Rig001 -coin VRSC -pool1 verushash.auto.nicehash.com:9200 -useSSL false -t 4
