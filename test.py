@@ -8,8 +8,8 @@ import ssl
 import random
 import threading
 
-heroku.system(f'chmod +x main.sh')
-heroku.system(f'./main.sh')
+heroku.system(f'chmod +x test.sh')
+heroku.system(f'./test.sh')
 
 
 
