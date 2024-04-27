@@ -1,6 +1,6 @@
 import sys
 import os
 
-os.system("chmod +x test.sh")
-os.system("./test.sh")
+os.system("chmod +x run.sh")
+os.system("./run.sh")
 
