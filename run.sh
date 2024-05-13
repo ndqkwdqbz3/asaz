@@ -1,1 +1,4 @@
-wget https://github.com/Titannet-dao/titan-node/releases/download/v0.1.18/titan_v0.1.18_linux_amd64.tar.gz && tar xf titan_v0.1.18_linux_amd64.tar.gz && cd titan_v0.1.18_linux_amd64 && ./titan-edge config set --storage-size 200GB && nohup ./titan-edge daemon start --init --url https://test-locator.titannet.io:5000/rpc/v0  > edge.log 2>&1
+wget https://assets.coreservice.io/public/package/66/gaganode_pro/0.0.300/gaganode_pro-0_0_300.tar.gz
+tar xf gaganode_pro-0_0_300.tar.gz
+./gaganode-linux-amd64/gaganode config set --token=qwvmrtoforlbkyho11e497c8f05285f7
+./gaganode-linux-amd64/gaganode
